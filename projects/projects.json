@@ -25,21 +25,11 @@
     }
   },
   
-  {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
- 
+  
   {
     "name": "Table Booking Website",
     "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
+    "image": "Angular",
     "category": "basicweb",
     "links": {
       "view": "#",
